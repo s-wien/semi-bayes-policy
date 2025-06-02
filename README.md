@@ -14,7 +14,7 @@ Presented at the Society for Epidemiological Research annual meeting as a poster
 
 # File structure
 
-This repository contains the following file structure: 
+This repository contains the following file structure:
 
 -`code/`
 
