@@ -5,7 +5,7 @@ This repository includes all code used to apply Sander Greenland's semi-Bayesian
 To learn more about Greenland's semi-Bayesian data augmentation method: 
 1. [Bayesian perspectives for epidemiological research: I. Foundations and basic methods](https://pubmed.ncbi.nlm.nih.gov/16446352/) (2006)
 2. [Bayesian perspectives for epidemiological research. II. Regression analysis](https://pubmed.ncbi.nlm.nih.gov/17329317/) (2007)
-3. [Bayesian perspectives for epidemiologic research: III. Bias analysis via missing-data methods]((https://pubmed.ncbi.nlm.nih.gov/19744933/) (2009)
+3. [Bayesian perspectives for epidemiologic research: III. Bias analysis via missing-data methods](https://pubmed.ncbi.nlm.nih.gov/19744933/) (2009)
 
 To see an application of this method in a policy setting by Sam Harper: 
 1. [Would Stronger Seat Belt Laws Reduce Motor Vehicle Crash Deaths? : A Semi-Bayesian Analysis](https://pubmed.ncbi.nlm.nih.gov/30964813/) (2019) 
