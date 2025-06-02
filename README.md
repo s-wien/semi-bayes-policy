@@ -10,8 +10,7 @@ To learn more about Greenland's semi-Bayesian data augmentation method:
 To see an application of this method in a policy setting: 
 1. [Would Stronger Seat Belt Laws Reduce Motor Vehicle Crash Deaths? : A Semi-Bayesian Analysis](https://pubmed.ncbi.nlm.nih.gov/30964813/) by Sam Harper (2019). 
  
-Presented at the Society for Epidemiological Research annual meeting as a poster presentation, June 2025. The poster can be found ![here](./figures/image.png)
-
+Presented at the Society for Epidemiological Research annual meeting as a poster presentation, June 2025 (poster at the end of this page). 
 
 # File structure
 
@@ -39,5 +38,10 @@ The files below perform the following:
 `code/03-plot-results.R`
 - generates density plot of prior, study data, and posterior distributions 
 - saves plot in `figures/`
+
+# SER poster
+
+![](figures/ser-poster-github.png)
+
 
 
